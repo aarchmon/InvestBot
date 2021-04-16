@@ -1,0 +1,5 @@
+graph LR
+start{Start} -->profiler[Profiler]
+profiler -- user information input --> main[Main]
+main -. continuous program loop .-> main
+main -. user profile update request .-> profiler
