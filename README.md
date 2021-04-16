@@ -1,5 +1,5 @@
 # InvestBot
 
-![InvestBot](./Images/InvestBot.png)
+![InvestBot](./Images/Invest_Made_Easy.png)
 
 ---
