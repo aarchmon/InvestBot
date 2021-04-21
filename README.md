@@ -20,23 +20,23 @@ We leverage Amazon Developer Console, AWS Data Exchange to deliver a world class
   - Bonus: financial dictionary for newbies
 
 # Use Cases
-User: “Alexa, tell me about Apple”
-Amazon: “Today’s analysis indicates ‘Buy’.”
+- User: “Alexa, tell me about Apple”
+- Amazon: “Today’s analysis indicates ‘Buy’.”
 
-User: “Alexa, add Microsoft to my portfolio.”
-Amazon: “Microsoft added to portfolio.”
+- User: “Alexa, add Microsoft to my portfolio.”
+- Amazon: “Microsoft added to portfolio.”
 
-User: “Alexa, remove Nike from my portfolio.”
-Amazon: “Nike removed from portfolio.”
+- User: “Alexa, remove Nike from my portfolio.”
+- Amazon: “Nike removed from portfolio.”
 
-User: “Alexa, change my risk tolerance to ‘Moderate’.”
-Amazon: “Risk tolerance is now ‘Moderate’.”
+- User: “Alexa, change my risk tolerance to ‘Moderate’.”
+- Amazon: “Risk tolerance is now ‘Moderate’.”
 
-User: “Alexa, change my trading horizon to ‘Short-Term’.”
-Amazon: “Trading horizon is now ‘Short-Term’.”
+- User: “Alexa, change my trading horizon to ‘Short-Term’.”
+- Amazon: “Trading horizon is now ‘Short-Term’.”
 
-User: “Alexa, please setup an alert when Apple stock price changes by 5%.”
-Amazon: “Alert set when Apple stock price changes by 5%.”
+- User: “Alexa, please setup an alert when Apple stock price changes by 5%.”
+- Amazon: “Alert set when Apple stock price changes by 5%.”
 
 # Questions to answer
 
@@ -46,21 +46,21 @@ Amazon: “Alert set when Apple stock price changes by 5%.”
 - Provide real time alerts related to price change, breaking news, recommendation change, etc.
 
 # Tools/Modules to use
-Amazon Development Console
-AWS Lex
-AWS Lambda
-AWS Sagemaker
-Python
-Machine learning models
-Matplotlib
-NumPy
-SciPy
+- Amazon Development Console
+- AWS Lex
+- AWS Lambda
+- AWS Sagemaker
+- Python
+- Machine learning models
+- Matplotlib
+- NumPy
+- SciPy
 etc.
 
 # Who We Are
-Aaron Montano
-Ally Che
-Ryan Felder
+- Aaron Montano
+- Ally Che
+- Ryan Felder
 
 ![InvestBot](./Images/Invest_Made_Easy.png)
 
