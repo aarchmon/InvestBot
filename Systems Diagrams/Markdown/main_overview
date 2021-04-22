@@ -1,5 +1,29 @@
-graph LR
-start{Start} -->profiler[Profiler]
-profiler -- user information input --> main[Main]
-main -. continuous program loop .-> main
-main -. user profile update request .-> profiler
+graph TD
+start{Invocation} -->profiler[Profiler]
+start --> investor[Investor]
+start --> dictionary[Dictionary]
+start --> help[Help]
+start --> crypto[Crypto]
+subgraph Intents
+profiler --> investor
+profiler --> dictionary
+profiler --> help
+profiler --> crypto
+investor --> profiler
+investor --> dictionary
+investor --> help
+investor --> crypto
+help --> investor
+help --> profiler
+help --> dictionary
+help --> crypto
+dictionary --> investor
+dictionary --> profiler
+dictionary --> help
+dictionary --> crypto
+end
+profiler --> stop{Stop Intent}
+investor --> stop
+dictionary --> stop
+help --> stop
+crypto --> stop
