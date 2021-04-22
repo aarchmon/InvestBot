@@ -1,4 +1,4 @@
-graph TD
+graph LR
 start{Invocation} -->profiler[Profiler]
 start --> investor[Investor]
 start --> dictionary[Dictionary]
