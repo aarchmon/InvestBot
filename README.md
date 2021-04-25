@@ -68,4 +68,4 @@ etc.
 
 # References
 
-_All definitions contained within the Dictionary feature of InvestBot originate from [Investopedia](www.investopedia.com) and I do not claim original knowledge nor scholarship.
+_All definitions contained within the Dictionary feature of InvestBot originate from [Investopedia](www.investopedia.com) and I do not claim original knowledge nor scholarship_.
